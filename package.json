@@ -15,7 +15,7 @@
     "@nuxt/content": "^1.14.0",
     "@system76/components": "^1.2.1",
     "@system76/design": "^5.4.1",
-    "core-js": "^3.9.1",
+    "core-js": "^3.20.1",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
